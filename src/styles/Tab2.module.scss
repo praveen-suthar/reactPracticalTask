@@ -1,0 +1,24 @@
+// Tab3.module.scss
+.tab2-container {
+  margin-top: 20px;
+}
+
+.user-list {
+  margin-top: 10px;
+}
+
+.user-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.user-avatar {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.user-details {
+  display: flex;
+  flex-direction: column;
+}
